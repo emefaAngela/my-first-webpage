@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html>
+       <title>
+           MY CURRICULUM VITAE
+       </title>
+    <body>
+        <link rel="stylesheet"type="text/css"href="myfirstwebpage.css">
+        
+        <H1>&emsp;&emsp;AMENGOR-KWAPONG ANGELA</H1>
+        <H2><align="centre">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;P O BOX KJ 10 KEJETIA-KUMASI </align></H2>
+        <H3><align="centre">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gelamengor@gmail.com</align></H3>
+        <H4>PERSONAL PROFILE</H4>
+        <p>
+            I am a hardworking and ambitious individual with a great passion. I have excellent communication skills, enabling me to effectively communicate with a wide range of people. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals.
+        </p>
+        <hr>
+        <H5>EDUCATIONAL BACKGROUND</H5>
+        <P>
+          <strong>August 2019-Present:</strong>   BSc. Information Technology <br>
+               &NegativeThickSpace;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;    University of Ghana<br>
+                          &NegativeVeryThinSpace;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;       Accra-Ghana<br>
+                          <br>
+            <strong>November 2016- June 2019:</strong> Kumasi Academy<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kumasi-Ghana<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Wassce(2019)<br>
+            <br>
+            <strong>September 2013- June 2016:</strong> Blessing International School<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kumasi-Ghana<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bece(2016)<br>
+            <br>
+
+
+        </P>
+        <hr>
+        <h6>WORK EXPERIENCE</h6>
+        <P>
+            <strong>July – August  2019: </strong>Secretary Assistant<br>
+            <strong>(Volunteer Job)</strong>&emsp;&emsp;St Anthony’s R/C Jhs<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kumasi-Ghana<br>
+            <br>
+            <strong>January 2020- Date: </strong>Student Journalist<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Radio Univers<br>
+
+        </P>
+        <hr>
+       <h7>EXTRA-CURRICULAR ACTIVITIES</h7>
+       <P>
+           <strong>February 2020- Present:</strong>Member of University of Ghana Mass Choir (UGMC)<br>
+           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;University of Ghana.<br>
+           <br>
+           <strong>February 2020- Present:</strong>Member of United Nations Students Association(UNSA-UG)<br>
+           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;University of Ghana Chapter.<br>
+
+       </P>
+       <h8>REFEREES</h8>
+       <P>
+           <strong>Father Franklin</strong>
+           St Anthony's Church<br>
+           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+233506353320<br>
+           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Buokurom-Kumasi.<br>
+       </P>
+    </body>
+
+
+    </html>
